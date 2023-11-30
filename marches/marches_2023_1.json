@@ -19229,7 +19229,7 @@
         "Dates et horaires": "9 et 10 d\u00e9cembre",
         "Adresse": "Cour du coll\u00e8ge Diderot",
         "D\u00e9tails (ctrl+entr\u00e9e pour ajouter un saut de ligne)": "Nombreux producteurs et artisans, dans la cour du coll\u00e8ge Denis Diderot",
-        "Lien hypertexte vers d\u00e9tails": null,
+        "Lien hypertexte vers d\u00e9tails": "https://www.bienvenue-hautemarne.fr/agenda/langres-marche-de-noel-a-langres-fmacha052v500alz/",
         "D\u00e9veloppement durable ": "FALSE",
         "D\u00e9tails d\u00e9veloppement durable ": null,
         "Unnamed: 12": null,
@@ -19346,6 +19346,26 @@
         "R\u00e9gion": "Grand Est",
         "DEP": "52",
         "Ville": "Nogent",
+        "Dates et horaires": "16 d\u00e9cembre de 14h \u00e0 20h, 17 d\u00e9cembre de 14h \u00e0 19h30",
+        "Adresse": null,
+        "D\u00e9tails (ctrl+entr\u00e9e pour ajouter un saut de ligne)": "60 exposants\nle samedi apr\u00e8s-midi: les lutins chantants de la Cie \"\u00c7a change un peu\"\nle dimanche: la fantastique brigade animali\u00e8re du p\u00e8re No\u00ebl\ndes animations\nle petit train, le chalet du p\u00e8re No\u00ebl, les cal\u00e8ches, mus\u00e9e de la coutellerie ouvert",
+        "Lien hypertexte vers d\u00e9tails": "https://www.bienvenue-hautemarne.fr/agenda/nogent-marche-de-noel-a-nogent-fmacha052v500aqs/",
+        "D\u00e9veloppement durable ": "FALSE",
+        "D\u00e9tails d\u00e9veloppement durable ": null,
+        "Unnamed: 12": null,
+        "Unnamed: 13": null,
+        "Dates et horaires OK": "16 d\u00e9cembre de 14h \u00e0 20h, 17 d\u00e9cembre de 14h \u00e0 19h30",
+        "Adresse OK": null,
+        "D\u00e9tails OK": "60 exposants<br>le samedi apr\u00e8s-midi: les lutins chantants de la Cie \"\u00c7a change un peu\"<br>le dimanche: la fantastique brigade animali\u00e8re du p\u00e8re No\u00ebl<br>des animations<br>le petit train, le chalet du p\u00e8re No\u00ebl, les cal\u00e8ches, mus\u00e9e de la coutellerie ouvert",
+        "D\u00e9tails d\u00e9veloppement durable OK": null
+    },
+    {
+        "ID": "00970",
+        "Ville, D\u00e9partement, R\u00e9gion, France": "Nogent, Haute-Marne, Grand Est, France",
+        "D\u00e9partement": "Haute-Marne",
+        "R\u00e9gion": "Grand Est",
+        "DEP": "52",
+        "Ville": "Nogent",
         "Dates et horaires": "1er d\u00e9cembre de 17h \u00e0 22h",
         "Adresse": "Dans l'encein du coll\u00e8ge de Nogent",
         "D\u00e9tails (ctrl+entr\u00e9e pour ajouter un saut de ligne)": "Plus de 15 exposants, maquillage pour enfants, marrons grill\u00e9s, stand sapins de No\u00ebl, bijoux, bonbons, cartes de voeux, coffret soin, cr\u00e9ations personnalis\u00e9es, fabrications artisanales, charcuteries, fromages, miel, bougies, d\u00e9corations...buvette et restauration sur place",
@@ -19360,7 +19380,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00970",
+        "ID": "00971",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Poinson-l\u00e8s-Fayl, Haute-Marne, Grand Est, France",
         "D\u00e9partement": "Haute-Marne",
         "R\u00e9gion": "Grand Est",
@@ -19380,7 +19400,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00971",
+        "ID": "00972",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Provench\u00e8res-sur-Meuse, Haute-Marne, Grand Est, France",
         "D\u00e9partement": "Haute-Marne",
         "R\u00e9gion": "Grand Est",
@@ -19400,7 +19420,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00972",
+        "ID": "00973",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Rolampont, Haute-Marne, Grand Est, France",
         "D\u00e9partement": "Haute-Marne",
         "R\u00e9gion": "Grand Est",
@@ -19420,7 +19440,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00973",
+        "ID": "00974",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Dizier, Haute-Marne, Grand Est, France",
         "D\u00e9partement": "Haute-Marne",
         "R\u00e9gion": "Grand Est",
@@ -19440,7 +19460,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00974",
+        "ID": "00975",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villegusien-le-Lac, Haute-Marne, Grand Est, France",
         "D\u00e9partement": "Haute-Marne",
         "R\u00e9gion": "Grand Est",
@@ -19460,7 +19480,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00975",
+        "ID": "00976",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Voillmagny, Haute-Marne, Grand Est, France",
         "D\u00e9partement": "Haute-Marne",
         "R\u00e9gion": "Grand Est",
@@ -19480,7 +19500,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00976",
+        "ID": "00977",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Wassy, Haute-Marne, Grand Est, France",
         "D\u00e9partement": "Haute-Marne",
         "R\u00e9gion": "Grand Est",
@@ -19500,7 +19520,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00977",
+        "ID": "00978",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bais, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19520,7 +19540,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00978",
+        "ID": "00979",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bonchamp-l\u00e8s-Laval, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19540,7 +19560,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00979",
+        "ID": "00980",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bourgon, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19560,7 +19580,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00980",
+        "ID": "00981",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Craon, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19580,7 +19600,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00981",
+        "ID": "00982",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ern\u00e9e, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19600,7 +19620,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00982",
+        "ID": "00983",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Fougerolles-du-Plessis, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19620,7 +19640,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00983",
+        "ID": "00984",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Baconni\u00e8re, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19640,7 +19660,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00984",
+        "ID": "00985",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Cropte, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19660,7 +19680,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00985",
+        "ID": "00986",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Louvern\u00e9, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19680,7 +19700,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00986",
+        "ID": "00987",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mayenne, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19700,7 +19720,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00987",
+        "ID": "00988",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montenay, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19720,7 +19740,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00988",
+        "ID": "00989",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montign\u00e9-le-Brillant, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19740,7 +19760,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00989",
+        "ID": "00990",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Monts\u00fbrs, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19760,7 +19780,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00990",
+        "ID": "00991",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Poix, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19780,7 +19800,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00991",
+        "ID": "00992",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villaines-la-Juhel, Mayenne, Pays de la Loire, France",
         "D\u00e9partement": "Mayenne",
         "R\u00e9gion": "Pays de la Loire",
@@ -19800,7 +19820,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00992",
+        "ID": "00993",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Avril, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -19820,7 +19840,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00993",
+        "ID": "00994",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Badonviller, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -19840,7 +19860,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00994",
+        "ID": "00995",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bl\u00e9nod-l\u00e8s-Pont-\u00e0-Mousson, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -19860,7 +19880,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00995",
+        "ID": "00996",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Briey, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -19880,7 +19900,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00996",
+        "ID": "00997",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Dombasle-sur-Meurthe, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -19900,7 +19920,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00997",
+        "ID": "00998",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Jarny, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -19920,7 +19940,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00998",
+        "ID": "00999",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Liverdun, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -19940,7 +19960,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "00999",
+        "ID": "01000",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Lun\u00e9ville , Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -19960,7 +19980,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01000",
+        "ID": "01001",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mance, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -19980,7 +20000,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01001",
+        "ID": "01002",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montauville, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -20000,7 +20020,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01002",
+        "ID": "01003",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nancy - Grand village de Saint-Nicolas, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -20020,7 +20040,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01003",
+        "ID": "01004",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nancy - Le bois des trois petits enfants, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -20040,7 +20060,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01004",
+        "ID": "01005",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nancy - Village de la fille du P\u00e8re-No\u00ebl, du fils du P\u00e8re-Fouettard, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -20060,7 +20080,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01005",
+        "ID": "01006",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nancy - Village de la grande roue, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -20080,7 +20100,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01006",
+        "ID": "01007",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nancy - Village des trois barbus, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -20100,7 +20120,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01007",
+        "ID": "01008",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nancy - Village des Vosges, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -20120,7 +20140,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01008",
+        "ID": "01009",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nancy - Village gourmand, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -20140,7 +20160,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01009",
+        "ID": "01010",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nancy - Village Porte de la Craffe, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -20160,7 +20180,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01010",
+        "ID": "01011",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pagny-sur-Moselle, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -20180,7 +20200,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01011",
+        "ID": "01012",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pont-\u00e0-Mousson, Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
@@ -20200,7 +20220,7 @@
         "D\u00e9tails d\u00e9veloppement durable OK": null
     },
     {
-        "ID": "01012",
+        "ID": "01013",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pont-\u00e0-Mousson , Meurthe-et-Moselle, Grand Est, France",
         "D\u00e9partement": "Meurthe-et-Moselle",
         "R\u00e9gion": "Grand Est",
