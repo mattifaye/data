@@ -20338,25 +20338,5 @@
         "Adresse OK": "Place Duroc",
         "D\u00e9tails OK": "Artisans<br>Cr\u00e9ateurs<br>Producteurs locaux",
         "D\u00e9tails d\u00e9veloppement durable OK": null
-    },
-    {
-        "ID": "01019",
-        "Ville, D\u00e9partement, R\u00e9gion, France": "Pont-\u00e0-Mousson , Meurthe-et-Moselle, Grand Est, France",
-        "D\u00e9partement": "Meurthe-et-Moselle",
-        "R\u00e9gion": "Grand Est",
-        "DEP": "54",
-        "Ville": "Pont-\u00e0-Mousson ",
-        "Dates et horaires": "Samedi 02 d\u00e9cembre 2023\nDe 10h \u00e0 17h",
-        "Adresse": "Agora de PAMbio, 7-9 rue du 26\u00e8me BCP",
-        "D\u00e9tails (ctrl+entr\u00e9e pour ajouter un saut de ligne)": "March\u00e9 de No\u00ebl des cr\u00e9ateurs ",
-        "Lien hypertexte vers d\u00e9tails": null,
-        "D\u00e9veloppement durable ": "FALSE",
-        "D\u00e9tails d\u00e9veloppement durable ": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null,
-        "Dates et horaires OK": "Samedi 02 d\u00e9cembre 2023<br>De 10h \u00e0 17h",
-        "Adresse OK": "Agora de PAMbio, 7-9 rue du 26\u00e8me BCP",
-        "D\u00e9tails OK": "March\u00e9 de No\u00ebl des cr\u00e9ateurs ",
-        "D\u00e9tails d\u00e9veloppement durable OK": null
     }
 ]
