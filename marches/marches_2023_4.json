@@ -1,10 +1,32 @@
 [
     {
         "ID": "02002",
+        "Ville, D\u00e9partement, R\u00e9gion, France": "Les Lilas, Seine-Saint-Denis, \u00cele-de-France, France",
+        "departement": "Seine-Saint-Denis",
+        "region": "\u00cele-de-France",
+        "DEP": "93",
+        "Ville": "Les Lilas",
+        "dates": "du 7 au 10 d\u00e9cembre ",
+        "adressse": "Avenue Waldeck Rousseau ",
+        "details": "Artisanat, animations, restauration ",
+        "lien": "https://www.ville-leslilas.fr/agenda/3-0-2778/le-marche-de-noel-approche",
+        "D\u00e9veloppement durable ": null,
+        "D\u00e9tails d\u00e9veloppement durable ": null,
+        "Unnamed: 12": null,
+        "Unnamed: 13": null,
+        "Dates et horaires OK": "du 7 au 10 d\u00e9cembre ",
+        "Adresse OK": "Avenue Waldeck Rousseau ",
+        "D\u00e9tails OK": "Artisanat, animations, restauration ",
+        "D\u00e9tails d\u00e9veloppement durable OK": null,
+        "Unnamed: 18": null,
+        "devdep": null
+    },
+    {
+        "ID": "02003",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montreuil , Seine-Saint-Denis, \u00cele-de-France, France",
         "departement": "Seine-Saint-Denis",
         "region": "\u00cele-de-France",
-        "dep": "93 - Seine-Saint-Denis",
+        "DEP": "93",
         "Ville": "Montreuil ",
         "dates": "du 8 au 17 d\u00e9cembre ",
         "adressse": "Place Jean Jaur\u00e8s, place Guernica, rue des Lumi\u00e8res ",
@@ -19,15 +41,14 @@
         "D\u00e9tails OK": "March\u00e9 paysan, animations ",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "93"
+        "devdep": null
     },
     {
-        "ID": "02003",
+        "ID": "02004",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Neuilly-sur-Marne, Seine-Saint-Denis, \u00cele-de-France, France",
         "departement": "Seine-Saint-Denis",
         "region": "\u00cele-de-France",
-        "dep": "93 - Seine-Saint-Denis",
+        "DEP": "93",
         "Ville": "Neuilly-sur-Marne",
         "dates": "8,9,10 d\u00e9cembre ",
         "adressse": "Place du chanoine H\u00e9roux ",
@@ -42,15 +63,14 @@
         "D\u00e9tails OK": "Artisanat, ateliers cr\u00e9atifs, animations",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "93"
+        "devdep": null
     },
     {
-        "ID": "02004",
+        "ID": "02005",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Noisy-le-Grand, Seine-Saint-Denis, \u00cele-de-France, France",
         "departement": "Seine-Saint-Denis",
         "region": "\u00cele-de-France",
-        "dep": "93 - Seine-Saint-Denis",
+        "DEP": "93",
         "Ville": "Noisy-le-Grand",
         "dates": "du 6 au 10 d\u00e9cembre ",
         "adressse": "Espace Michel Simon, avenue Aristide Briand ",
@@ -65,15 +85,14 @@
         "D\u00e9tails OK": "brocante, patinoire, piste de luge",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "93"
+        "devdep": null
     },
     {
-        "ID": "02005",
+        "ID": "02006",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pantin, Seine-Saint-Denis, \u00cele-de-France, France",
         "departement": "Seine-Saint-Denis",
         "region": "\u00cele-de-France",
-        "dep": "93 - Seine-Saint-Denis",
+        "DEP": "93",
         "Ville": "Pantin",
         "dates": "Du samedi 2 d\u00e9cembre, de 12h \u00e0 1h, au dimanche 3 d\u00e9cembre 2023 de 12h \u00e0 20h",
         "adressse": "Cit\u00e9 Fertile",
@@ -88,15 +107,14 @@
         "D\u00e9tails OK": "Le Village de No\u00ebl \"XXL\" de la Cit\u00e9 Fertile<br>Tiers-lieu temporaire du nord de Paris, la Cit\u00e9 Fertile voit grand pour le dernier hiver de son village de No\u00ebl engag\u00e9. L'ancienne gare d\u00e9saffect\u00e9e de la SNCF accueillera plus de soixante artisans \u00e9co-responsables et solidaires du samedi 2 d\u00e9cembre, de 12h \u00e0 1h, au dimanche 3 d\u00e9cembre de 12h \u00e0 20h.\u00a0<br><br>La friche culturelle sera le lieu de rendez-vous des petits et grands avec des restaurateurs locaux de streetfood et un espace jeu et kermesse \"upcycl\u00e9e\" \u2013 r\u00e9cup\u00e9ration de produits dont on n'a plus l'usage pour les transformer.",
         "D\u00e9tails d\u00e9veloppement durable OK": "Un march\u00e9 de No\u00ebl engag\u00e9 avec un espace jeu et kermesse \"upcycl\u00e9e\" \u2013 r\u00e9cup\u00e9ration de produits dont on n'a plus l'usage pour les transformer.",
         "Unnamed: 18": null,
-        "devdep": "TRUE",
-        "DEP": "93"
+        "devdep": "TRUE"
     },
     {
-        "ID": "02006",
+        "ID": "02007",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pr\u00e9-Saint-Gervais, Seine-Saint-Denis, \u00cele-de-France, France",
         "departement": "Seine-Saint-Denis",
         "region": "\u00cele-de-France",
-        "dep": "93 - Seine-Saint-Denis",
+        "DEP": "93",
         "Ville": "Pr\u00e9-Saint-Gervais",
         "dates": "10 d\u00e9cembre",
         "adressse": "Sous la halle du march\u00e9 couvert ",
@@ -111,15 +129,14 @@
         "D\u00e9tails OK": "Artisanat, animations, piste de luge, carousel ",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "93"
+        "devdep": null
     },
     {
-        "ID": "02007",
+        "ID": "02008",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Romainville , Seine-Saint-Denis, \u00cele-de-France, France",
         "departement": "Seine-Saint-Denis",
         "region": "\u00cele-de-France",
-        "dep": "93 - Seine-Saint-Denis",
+        "DEP": "93",
         "Ville": "Romainville ",
         "dates": "1,2,3 d\u00e9cembre ",
         "adressse": "Place de la La\u00efcit\u00e9 et square de l'Eglise ",
@@ -134,15 +151,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "93"
+        "devdep": null
     },
     {
-        "ID": "02008",
+        "ID": "02009",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Rosny-sous-Bois, Seine-Saint-Denis, \u00cele-de-France, France",
         "departement": "Seine-Saint-Denis",
         "region": "\u00cele-de-France",
-        "dep": "93 - Seine-Saint-Denis",
+        "DEP": "93",
         "Ville": "Rosny-sous-Bois",
         "dates": "15,16, 17 d\u00e9cembre ",
         "adressse": "Parc Decesari ",
@@ -157,15 +173,14 @@
         "D\u00e9tails OK": "Artisanat, animations, piste de luge, carousel",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "93"
+        "devdep": null
     },
     {
-        "ID": "02009",
+        "ID": "02010",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Denis, Seine-Saint-Denis, \u00cele-de-France, France",
         "departement": "Seine-Saint-Denis",
         "region": "\u00cele-de-France",
-        "dep": "93 - Seine-Saint-Denis",
+        "DEP": "93",
         "Ville": "Saint-Denis",
         "dates": "du 15 d\u00e9cembre au 7 janvier ",
         "adressse": "Parvis de la Basilique ",
@@ -180,15 +195,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, patinoire, animations ",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "93"
+        "devdep": null
     },
     {
-        "ID": "02010",
+        "ID": "02011",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Sevran, Seine-Saint-Denis, \u00cele-de-France, France",
         "departement": "Seine-Saint-Denis",
         "region": "\u00cele-de-France",
-        "dep": "93 - Seine-Saint-Denis",
+        "DEP": "93",
         "Ville": "Sevran",
         "dates": "15 et 16 d\u00e9cembre ",
         "adressse": "Place Gaston Bussi\u00e8re ",
@@ -203,15 +217,14 @@
         "D\u00e9tails OK": null,
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "93"
+        "devdep": null
     },
     {
-        "ID": "02011",
+        "ID": "02012",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vaujours , Seine-Saint-Denis, \u00cele-de-France, France",
         "departement": "Seine-Saint-Denis",
         "region": "\u00cele-de-France",
-        "dep": "93 - Seine-Saint-Denis",
+        "DEP": "93",
         "Ville": "Vaujours ",
         "dates": "16 d\u00e9cembre",
         "adressse": null,
@@ -226,15 +239,14 @@
         "D\u00e9tails OK": null,
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "93"
+        "devdep": null
     },
     {
-        "ID": "02012",
+        "ID": "02013",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villemonble , Seine-Saint-Denis, \u00cele-de-France, France",
         "departement": "Seine-Saint-Denis",
         "region": "\u00cele-de-France",
-        "dep": "93 - Seine-Saint-Denis",
+        "DEP": "93",
         "Ville": "Villemonble ",
         "dates": "15, 16, 17 d\u00e9cembre ",
         "adressse": "Parking du ch\u00e2teau seigneurial",
@@ -249,15 +261,14 @@
         "D\u00e9tails OK": null,
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "93"
+        "devdep": null
     },
     {
-        "ID": "02013",
+        "ID": "02014",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villepinte, Seine-Saint-Denis, \u00cele-de-France, France",
         "departement": "Seine-Saint-Denis",
         "region": "\u00cele-de-France",
-        "dep": "93 - Seine-Saint-Denis",
+        "DEP": "93",
         "Ville": "Villepinte",
         "dates": "2 et 3 d\u00e9cembre ",
         "adressse": "Avenue de la gare ",
@@ -272,15 +283,14 @@
         "D\u00e9tails OK": "Chalets, man\u00e8ges",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "93"
+        "devdep": null
     },
     {
-        "ID": "02014",
+        "ID": "02015",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Champigny-sur-Marne, Val-de-Marne, \u00cele-de-France, France",
         "departement": "Val-de-Marne",
         "region": "\u00cele-de-France",
-        "dep": "94 - Val-de-Marne",
+        "DEP": "94",
         "Ville": "Champigny-sur-Marne",
         "dates": "Du 15 au 17 d\u00e9cembre 2023",
         "adressse": "Place du March\u00e9 L\u00e9nine",
@@ -295,15 +305,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl de Champigny-sur-Marne",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "94"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02015",
+        "ID": "02016",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Choisy-le-Roi, Val-de-Marne, \u00cele-de-France, France",
         "departement": "Val-de-Marne",
         "region": "\u00cele-de-France",
-        "dep": "94 - Val-de-Marne",
+        "DEP": "94",
         "Ville": "Choisy-le-Roi",
         "dates": "Du 15 au 17 d\u00e9cembre 2023",
         "adressse": "Parc de la Mairie",
@@ -318,15 +327,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl de Choisy-le-Roi",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "94"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02016",
+        "ID": "02017",
         "Ville, D\u00e9partement, R\u00e9gion, France": "L'Ha\u00ff-les-Roses, Val-de-Marne, \u00cele-de-France, France",
         "departement": "Val-de-Marne",
         "region": "\u00cele-de-France",
-        "dep": "94 - Val-de-Marne",
+        "DEP": "94",
         "Ville": "L'Ha\u00ff-les-Roses",
         "dates": "1, 2 et 3 d\u00e9cembre",
         "adressse": "Esplanade de la Bi\u00e8vre ",
@@ -341,15 +349,14 @@
         "D\u00e9tails OK": "Produits artisanaux, spectacles",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "94"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02017",
+        "ID": "02018",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La-Queue-en-Brie, Val-de-Marne, \u00cele-de-France, France",
         "departement": "Val-de-Marne",
         "region": "\u00cele-de-France",
-        "dep": "94 - Val-de-Marne",
+        "DEP": "94",
         "Ville": "La-Queue-en-Brie",
         "dates": "Du 16 d\u00e9cembre 2023 au 17 d\u00e9cembre 2023",
         "adressse": "Maison Pour Tous Henri Rouart, route de Villiers et Stade L\u00e9o Lagrange",
@@ -364,15 +371,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl de La-Queue-en-Brie",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "94"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02018",
+        "ID": "02019",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Orly, Val-de-Marne, \u00cele-de-France, France",
         "departement": "Val-de-Marne",
         "region": "\u00cele-de-France",
-        "dep": "94 - Val-de-Marne",
+        "DEP": "94",
         "Ville": "Orly",
         "dates": "Du 9 d\u00e9cembre au 10 d\u00e9cembre 2023",
         "adressse": "Place du march\u00e9 du Vieil Orly",
@@ -387,15 +393,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl d'Orly-Ville",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "94"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02019",
+        "ID": "02020",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Maur-d\u00e8s-Foss\u00e9s, Val-de-Marne, \u00cele-de-France, France",
         "departement": "Val-de-Marne",
         "region": "\u00cele-de-France",
-        "dep": "94 - Val-de-Marne",
+        "DEP": "94",
         "Ville": "Saint-Maur-d\u00e8s-Foss\u00e9s",
         "dates": "Jusqu'au 25 novembre 2023",
         "adressse": "R\u00e9sidence de l\u2019Abbaye",
@@ -410,15 +415,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl de la R\u00e9sidence de l\u2019Abbaye",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "94"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02020",
+        "ID": "02021",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vincennes, Val-de-Marne, \u00cele-de-France, France",
         "departement": "Val-de-Marne",
         "region": "\u00cele-de-France",
-        "dep": "94 - Val-de-Marne",
+        "DEP": "94",
         "Ville": "Vincennes",
         "dates": "Le 1er d\u00e9cembre 2023",
         "adressse": "Place Diderot",
@@ -433,15 +437,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl des cr\u00e9ateurs de Vincennes",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "94"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02021",
+        "ID": "02022",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Asni\u00e8res-sur-Oise, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Asni\u00e8res-sur-Oise",
         "dates": "Samedi 2 d\u00e9cembre de 16h30 \u00e0 21h et dimanche 3 d\u00e9cembre de 10h \u00e0 17h",
         "adressse": "Place de l'Eglise",
@@ -456,15 +459,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, animations musicales, d\u00e9fil\u00e9 de personnages de bande-dessin\u00e9e, photos avec le P\u00e8re No\u00ebl. ",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02022",
+        "ID": "02023",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Auvers-sur-Oise, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Auvers-sur-Oise",
         "dates": "Samedi 9 et le dimanche 10 d\u00e9cembre",
         "adressse": "Place de la mairie - Rue du G\u00e9n\u00e9ral de Gaulle",
@@ -479,15 +481,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, artisanat",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02023",
+        "ID": "02024",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Beauchamp, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Beauchamp",
         "dates": "Samedi 9 et le dimanche 10 d\u00e9cembre",
         "adressse": "Salles Paul Bance - Avenue Pasteur",
@@ -502,15 +503,14 @@
         "D\u00e9tails OK": "Illuminations, march\u00e9 de No\u00ebl, animations ext\u00e9rieures, repr\u00e9sentations de danses",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02024",
+        "ID": "02025",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Butry-sur-Oise, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Butry-sur-Oise",
         "dates": "Samedi 2 et le dimanche 3 d\u00e9cembre",
         "adressse": "Place Pierre Blanchard ",
@@ -525,15 +525,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, chorale, P\u00e8re No\u00ebl",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02025",
+        "ID": "02026",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cergy, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Cergy",
         "dates": "samedi 23 d\u00e9cembre",
         "adressse": "Place des Touleuses",
@@ -548,15 +547,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, petit train, maquillage, th\u00e9\u00e2tre",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02026",
+        "ID": "02027",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cergy, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Cergy",
         "dates": "Samedi 23 d\u00e9cembre, de 11h \u00e0 18h",
         "adressse": "Place des Touleuses",
@@ -571,15 +569,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl de Cergy<br>Au programme : bijoux, cr\u00e9ations et gourmandises seront au rendez-vous, ainsi que de nombreuses animations dont un spectacle \u00e0 14h30 et \u00e0 16h.",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "95"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02027",
+        "ID": "02028",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Champagne-sur-Oise, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Champagne-sur-Oise",
         "dates": "Vendredi 1er, le samedi 2 et le dimanche 3 d\u00e9cembre",
         "adressse": "Rue de Welwyn",
@@ -594,15 +591,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, d\u00e9ambulation de mascottes, balade \u00e0 poney, chiens de tra\u00eeneau",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02028",
+        "ID": "02029",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chaumontel, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Chaumontel",
         "dates": "Vendredi 1er, le samedi 2 et le dimanche 3 d\u00e9cembre",
         "adressse": "Place du march\u00e9",
@@ -617,15 +613,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, feux d'artifices",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02029",
+        "ID": "02030",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Domont, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Domont",
         "dates": "Vendredi 1er, le samedi 2 et le dimanche 3 d\u00e9cembre",
         "adressse": "Parvis de l'Eglise ",
@@ -640,15 +635,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, P\u00e8re No\u00ebl,  patinoire, balade en voiture ancienne, ",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02030",
+        "ID": "02031",
         "Ville, D\u00e9partement, R\u00e9gion, France": "\u00c9couen, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "\u00c9couen",
         "dates": "samedi 9 et le dimanche 10 d\u00e9cembre",
         "adressse": "Gymanse Lemaire",
@@ -663,15 +657,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, distribution de chocolats",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02031",
+        "ID": "02032",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ennery, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Ennery",
         "dates": "vendredi 15 et le samedi 16 d\u00e9cembre",
         "adressse": "Rue Charpentier d\u2019Ennery",
@@ -686,15 +679,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, artisanat, restauration",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02032",
+        "ID": "02033",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Eragny, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Eragny",
         "dates": "Samedi 9 d\u00e9cembre, de 10h \u00e0 19h",
         "adressse": "Salle des Calandres \u2013 Rue de la Pap\u00e8terie",
@@ -709,15 +701,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl d'Eragny<br>Au programme : village des exposants, animations, photo avec le p\u00e8re No\u00ebl et petit train",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "95"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02033",
+        "ID": "02034",
         "Ville, D\u00e9partement, R\u00e9gion, France": "\u00c9ragny-sur-Oise, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "\u00c9ragny-sur-Oise",
         "dates": "samedi 9 d\u00e9cembre",
         "adressse": "Salle des Calandres",
@@ -732,15 +723,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, foodtrucks, photo avec le P\u00e8re No\u00ebl, petit train dans la ville ",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02034",
+        "ID": "02035",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Flavacourt, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Flavacourt",
         "dates": "Samedi 16 d\u00e9cembre, de 13h \u00e0 20h et dimanche 17 d\u00e9cembre, de 10h \u00e0 18h",
         "adressse": "Salle Marc-Fouvert, rue de Gisors",
@@ -755,15 +745,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, contes",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02035",
+        "ID": "02036",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Fosses, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Fosses",
         "dates": "Samedi 2 et le dimanche 3 d\u00e9cembre ",
         "adressse": "Salle Omnisport Cathy Fleury ",
@@ -778,15 +767,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, concerts, contes, ateliers \u00e9ducatifs",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02036",
+        "ID": "02037",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Groslay, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Groslay",
         "dates": "Vendredi 8, le samedi 9 et le dimanche 10 d\u00e9cembre ",
         "adressse": "Parvis de la Mairie - Rue du G\u00e9n\u00e9ral Leclerc",
@@ -801,15 +789,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl.",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02037",
+        "ID": "02038",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Herblay-sur-Seine, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Herblay-sur-Seine",
         "dates": "Vendredi 15, le samedi 16 et le dimanche 17 d\u00e9cembre",
         "adressse": "Parc de la mairie",
@@ -824,15 +811,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, foodtrucks",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02038",
+        "ID": "02039",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Jouy-le-Moutier, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Jouy-le-Moutier",
         "dates": "Samedi 16 et dimanche 17 d\u00e9cembre",
         "adressse": "Place du Bien-\u00catre",
@@ -847,15 +833,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, photo avec le p\u00e8re No\u00ebl et ses lutins",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02039",
+        "ID": "02040",
         "Ville, D\u00e9partement, R\u00e9gion, France": "L'Isle-Adam, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "L'Isle-Adam",
         "dates": "Du 21 au 23 d\u00e9cembre 2023",
         "adressse": "Entre le mus\u00e9e Louis-Senlecq et l'Office de tourisme",
@@ -870,15 +855,14 @@
         "D\u00e9tails OK": "Village de No\u00ebl<br>Organis\u00e9 par l\u2019ACIA (Amicale des Commer\u00e7ants de L\u2019Isle-Adam)<br>Musique et animations musicales<br>Nocturne de la patinoire",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "95"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02040",
+        "ID": "02041",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Louvres, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Louvres",
         "dates": "Samedi 9 et le dimanche 10 d\u00e9cembre",
         "adressse": "Parc du Ch\u00e2teau - Rue de Paris",
@@ -893,15 +877,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, patinoire, man\u00e8ge, chalet du p\u00e8re No\u00ebl",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02041",
+        "ID": "02042",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Magny-en-Vexin , Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Magny-en-Vexin ",
         "dates": "Samedi 9 d\u00e9cembre, de 9h \u00e0 18h",
         "adressse": "Centre-ville",
@@ -916,15 +899,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02042",
+        "ID": "02043",
         "Ville, D\u00e9partement, R\u00e9gion, France": "M\u00e9ry-sur-Oise, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "M\u00e9ry-sur-Oise",
         "dates": "Samedi 2 d\u00e9cembre de 14h \u00e0 18h",
         "adressse": "Ecole de Vaux - Avenue Vincent Van Gogh",
@@ -939,15 +921,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, maquillage, jeux de pistes, scrapbooking",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02043",
+        "ID": "02044",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montgeroult, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Montgeroult",
         "dates": "Dimanche 3 d\u00e9cembre de 10h \u00e0 18h",
         "adressse": "Maison du Village : Rue de la Vall\u00e9e",
@@ -962,15 +943,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, artisanat, balade en cal\u00e8che",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02044",
+        "ID": "02045",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montmagny, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Montmagny",
         "dates": "Vendredi 15, le samedi 16 et le dimanche 17 d\u00e9cembre ",
         "adressse": "Place des Touleuses ",
@@ -985,15 +965,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, artisanat, tombola, projection de films, concerts",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02045",
+        "ID": "02046",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montmorency, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Montmorency",
         "dates": "Vendredi 8, le samedi 9 et le dimanche 10 d\u00e9cembre",
         "adressse": "Parc de l\u2019H\u00f4tel de Ville",
@@ -1008,15 +987,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, ateliers cr\u00e9atifs, maison du P\u00e8re No\u00ebl",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02046",
+        "ID": "02047",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montsoult, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Montsoult",
         "dates": "dimanche 10 d\u00e9cembre",
         "adressse": "Gymnase de Montsoult - 19 Rue Emile Combres",
@@ -1031,15 +1009,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, artisanat",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02047",
+        "ID": "02048",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nesles-la-Vall\u00e9e, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Nesles-la-Vall\u00e9e",
         "dates": "samedi 9 d\u00e9cembre",
         "adressse": "Foyer Rural - All\u00e9e Ren\u00e9 Florentin",
@@ -1054,15 +1031,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, artisanat",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02048",
+        "ID": "02049",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Neuville-sur-Oise, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Neuville-sur-Oise",
         "dates": "Samedi 9 d\u00e9cembre, de 10h \u00e0 17h",
         "adressse": "Place du Pont ",
@@ -1077,15 +1053,14 @@
         "D\u00e9tails OK": null,
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "95"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02049",
+        "ID": "02050",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nucourt, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Nucourt",
         "dates": "Samedi 2 d\u00e9cembre, de 10h \u00e0 18h",
         "adressse": "Foyer rural de Nucourt",
@@ -1100,15 +1075,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, spectacle de danse, venue du P\u00e8re No\u00ebl \u00e0 16h30",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02050",
+        "ID": "02051",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Omerville, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Omerville",
         "dates": "Dimanche 3 d\u00e9cembre, de 9h \u00e0 18h",
         "adressse": "Salle des f\u00eates d'Omerville",
@@ -1123,15 +1097,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02051",
+        "ID": "02052",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Osny, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Osny",
         "dates": "Du vendredi 1er au 3 d\u00e9cembre 2023",
         "adressse": "Parc et ch\u00e2teau de Grouchy \u2013 14 rue William Thornley",
@@ -1146,15 +1119,14 @@
         "D\u00e9tails OK": "Village de No\u00ebl d'Osny<br>Au programme : P\u00e8re No\u00ebl, patinoire, ateliers pour petits et grands, spectacles, feu d\u2019artifice",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "95"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02052",
+        "ID": "02053",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Osny, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Osny",
         "dates": "Vendredi 1er, samedi 2 et dimanche 3 d\u00e9cembre ",
         "adressse": "Ch\u00e2teau et le parc de Grouchy",
@@ -1169,15 +1141,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, P\u00e8re No\u00ebl, patinoire, feux d'artifices",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02053",
+        "ID": "02054",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Persan, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Persan",
         "dates": "Samedi 9 et le dimanche 10 d\u00e9cembre ",
         "adressse": "Parvis de la Mairie - Rue Pierre Brossolette",
@@ -1192,15 +1163,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, restauration",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02054",
+        "ID": "02055",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pontoise, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Pontoise",
         "dates": "Du samedi 2 au dimanche 3 d\u00e9cembre 2023",
         "adressse": "Place des Moineaux et chevet de la cath\u00e9drale",
@@ -1215,15 +1185,14 @@
         "D\u00e9tails OK": "Les No\u00eblies de Pontoise 2023<br>Au programme : march\u00e9 de no\u00ebl avec pr\u00e9sence du p\u00e8re no\u00ebl, ateliers, concerts, spectacles et circuit de kart.",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "95"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02055",
+        "ID": "02056",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Presles, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Presles",
         "dates": "Samedi 2 et le dimanche 3 d\u00e9cembre",
         "adressse": "CSL - 13 Rue de la R\u00e9publique",
@@ -1238,15 +1207,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, contes, ateliers manuels, feu d'artifice",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02056",
+        "ID": "02057",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Puiseux-Pontoise, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Puiseux-Pontoise",
         "dates": "Le dimanche 26 novembre, de 11h \u00e0 18h",
         "adressse": "Salle des f\u00eates Fran\u00e7ois Lemonier \u2013 rue de la Fontaine",
@@ -1261,15 +1229,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl de Puiseaux-Pontoise<br>Organis\u00e9 par le Comit\u00e9 des f\u00eates et des loisirs.<br>Au programme : artisans locaux, food trucks et collations sur place ainsi qu\u2019une piste de luge gonflable.",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": "FALSE",
-        "DEP": "95"
+        "devdep": "FALSE"
     },
     {
-        "ID": "02057",
+        "ID": "02058",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Roissy-en-France, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Roissy-en-France",
         "dates": "Vendredi 15, le samedi 16 et le dimanche 17 d\u00e9cembre",
         "adressse": "Espace \u00c9liane-Fayeulle",
@@ -1284,15 +1251,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, patinoire, magie, cal\u00e8che, maquillage",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02058",
+        "ID": "02059",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Clair-sur-Epte, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Saint-Clair-sur-Epte",
         "dates": "Samedi 2 et le dimanche 3 d\u00e9cembre ",
         "adressse": "Parc et salle des f\u00eates - Rue de l\u2019Ermitage",
@@ -1307,15 +1273,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, contes, spectacles en salle, chants de No\u00ebl ",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02059",
+        "ID": "02060",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Taverny, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Taverny",
         "dates": "Samedi 2 et le dimanche 3 d\u00e9cembre",
         "adressse": "Place de Verdun",
@@ -1330,15 +1295,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, carrousel, patinoire, animations, chorale",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02060",
+        "ID": "02061",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vaur\u00e9al, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Vaur\u00e9al",
         "dates": "Samedi 9 et dimanche 10 d\u00e9cembre, de 10h \u00e0 19h",
         "adressse": "Place du Coeur Battant",
@@ -1353,15 +1317,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, patinoire, spectacles",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02061",
+        "ID": "02062",
         "Ville, D\u00e9partement, R\u00e9gion, France": "V\u00e9theuil, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "V\u00e9theuil",
         "dates": "Samedi 2 et dimanche 3 d\u00e9cembre, de 10h \u00e0 18h",
         "adressse": "Foyer rural, place Jean Moulin ",
@@ -1376,15 +1339,14 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, brocante \"vintage\"",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     },
     {
-        "ID": "02062",
+        "ID": "02063",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vigny, Val-d'Oise, \u00cele-de-France, France",
         "departement": "Val-d'Oise",
         "region": "\u00cele-de-France",
-        "dep": "95 - Val-d'Oise",
+        "DEP": "95",
         "Ville": "Vigny",
         "dates": "Samedi 9 et le dimanche 10 d\u00e9cembre ",
         "adressse": "Salle des F\u00eates de la Mairie",
@@ -1399,7 +1361,6 @@
         "D\u00e9tails OK": "March\u00e9 de No\u00ebl, artisanat, restauration",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
-        "devdep": null,
-        "DEP": "95"
+        "devdep": null
     }
 ]
