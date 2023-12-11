@@ -1,6 +1,28 @@
 [
     {
         "ID": "00502",
+        "Ville, D\u00e9partement, R\u00e9gion, France": "Courville-sur-Eure, Eure-et-Loir, Centre-Val de Loire, France",
+        "departement": "Eure-et-Loir",
+        "region": "Centre-Val de Loire",
+        "DEP": "28",
+        "Ville": "Courville-sur-Eure",
+        "dates": "Dimanche 3 d\u00e9cembre de 10h \u00e0 17h",
+        "adressse": "Gymnase Klein",
+        "details": null,
+        "lien": null,
+        "D\u00e9veloppement durable ": "FALSE",
+        "D\u00e9tails d\u00e9veloppement durable ": null,
+        "Unnamed: 12": null,
+        "Unnamed: 13": null,
+        "Dates et horaires OK": "Dimanche 3 d\u00e9cembre de 10h \u00e0 17h",
+        "Adresse OK": "Gymnase Klein",
+        "D\u00e9tails OK": null,
+        "D\u00e9tails d\u00e9veloppement durable OK": null,
+        "Unnamed: 18": null,
+        "devdep": "FALSE"
+    },
+    {
+        "ID": "00503",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Dammarie, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -22,7 +44,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00503",
+        "ID": "00504",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Dreux, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -44,7 +66,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00504",
+        "ID": "00505",
         "Ville, D\u00e9partement, R\u00e9gion, France": "\u00c9crosnes, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -66,7 +88,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00505",
+        "ID": "00506",
         "Ville, D\u00e9partement, R\u00e9gion, France": "\u00c9ole-en-Beauce, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -88,7 +110,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00506",
+        "ID": "00507",
         "Ville, D\u00e9partement, R\u00e9gion, France": "\u00c9pernon, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -110,7 +132,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00507",
+        "ID": "00508",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Gallardon, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -132,7 +154,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00508",
+        "ID": "00509",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Jouy, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -154,7 +176,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00509",
+        "ID": "00510",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Jouy, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -176,7 +198,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00510",
+        "ID": "00511",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Bazoche-Gouet, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -198,7 +220,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00511",
+        "ID": "00512",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Laons, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -220,7 +242,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00512",
+        "ID": "00513",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Le Gault-Saint-Denis, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -242,7 +264,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00513",
+        "ID": "00514",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Logron, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -264,7 +286,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00514",
+        "ID": "00515",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Migni\u00e8res, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -286,7 +308,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00515",
+        "ID": "00516",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nogent-le-Phaye, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -308,7 +330,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00516",
+        "ID": "00517",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nogent-le-Roi, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -330,7 +352,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00517",
+        "ID": "00518",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ouarville, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -352,7 +374,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00518",
+        "ID": "00519",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Oulins, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -374,7 +396,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00519",
+        "ID": "00520",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pontgouin, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -396,7 +418,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00520",
+        "ID": "00521",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Poupry, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -418,7 +440,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00521",
+        "ID": "00522",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Prunay-le-Gillon, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -440,7 +462,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00522",
+        "ID": "00523",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Piat, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -462,7 +484,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00523",
+        "ID": "00524",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Senonches, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -484,7 +506,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00524",
+        "ID": "00525",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vert-en-Drouais, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -506,7 +528,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00525",
+        "ID": "00526",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ymonville, Eure-et-Loir, Centre-Val de Loire, France",
         "departement": "Eure-et-Loir",
         "region": "Centre-Val de Loire",
@@ -528,7 +550,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00526",
+        "ID": "00527",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Al\u00e8s, Gard, Occitanie, France",
         "departement": "Gard",
         "region": "Occitanie",
@@ -550,7 +572,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00527",
+        "ID": "00528",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nimes, Gard, Occitanie, France",
         "departement": "Gard",
         "region": "Occitanie",
@@ -572,7 +594,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00528",
+        "ID": "00529",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bazi\u00e8ge, Haute-Garonne, Occitanie, France",
         "departement": "Haute-Garonne",
         "region": "Occitanie",
@@ -594,7 +616,7 @@
         "devdep": null
     },
     {
-        "ID": "00529",
+        "ID": "00530",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Castanet-Tolosan, Haute-Garonne, Occitanie, France",
         "departement": "Haute-Garonne",
         "region": "Occitanie",
@@ -616,7 +638,7 @@
         "devdep": null
     },
     {
-        "ID": "00530",
+        "ID": "00531",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Castelginest, Haute-Garonne, Occitanie, France",
         "departement": "Haute-Garonne",
         "region": "Occitanie",
@@ -638,7 +660,7 @@
         "devdep": null
     },
     {
-        "ID": "00531",
+        "ID": "00532",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cintegabelle, Haute-Garonne, Occitanie, France",
         "departement": "Haute-Garonne",
         "region": "Occitanie",
@@ -660,7 +682,7 @@
         "devdep": null
     },
     {
-        "ID": "00532",
+        "ID": "00533",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Fronton, Haute-Garonne, Occitanie, France",
         "departement": "Haute-Garonne",
         "region": "Occitanie",
@@ -682,7 +704,7 @@
         "devdep": null
     },
     {
-        "ID": "00533",
+        "ID": "00534",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Grenade, Haute-Garonne, Occitanie, France",
         "departement": "Haute-Garonne",
         "region": "Occitanie",
@@ -704,7 +726,7 @@
         "devdep": null
     },
     {
-        "ID": "00534",
+        "ID": "00535",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Portet sur Garonne, Haute-Garonne, Occitanie, France",
         "departement": "Haute-Garonne",
         "region": "Occitanie",
@@ -726,7 +748,7 @@
         "devdep": null
     },
     {
-        "ID": "00535",
+        "ID": "00536",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ramonville Saint-Agne, Haute-Garonne, Occitanie, France",
         "departement": "Haute-Garonne",
         "region": "Occitanie",
@@ -748,7 +770,7 @@
         "devdep": null
     },
     {
-        "ID": "00536",
+        "ID": "00537",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Gaudens, Haute-Garonne, Occitanie, France",
         "departement": "Haute-Garonne",
         "region": "Occitanie",
@@ -770,7 +792,7 @@
         "devdep": null
     },
     {
-        "ID": "00537",
+        "ID": "00538",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Toulouse, Capitole, Haute-Garonne, Occitanie, France",
         "departement": "Haute-Garonne",
         "region": "Occitanie",
@@ -792,7 +814,7 @@
         "devdep": null
     },
     {
-        "ID": "00538",
+        "ID": "00539",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Toulouse, march\u00e9 de no\u00ebl de Borderouge, Haute-Garonne, Occitanie, France",
         "departement": "Haute-Garonne",
         "region": "Occitanie",
@@ -814,7 +836,7 @@
         "devdep": null
     },
     {
-        "ID": "00539",
+        "ID": "00540",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Toulouse, march\u00e9 de no\u00ebl des acolytes, Haute-Garonne, Occitanie, France",
         "departement": "Haute-Garonne",
         "region": "Occitanie",
@@ -836,7 +858,7 @@
         "devdep": null
     },
     {
-        "ID": "00540",
+        "ID": "00541",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Auch, Gers, Occitanie, France",
         "departement": "Gers",
         "region": "Occitanie",
@@ -858,7 +880,7 @@
         "devdep": null
     },
     {
-        "ID": "00541",
+        "ID": "00542",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Condom, Gers, Occitanie, France",
         "departement": "Gers",
         "region": "Occitanie",
@@ -880,7 +902,7 @@
         "devdep": null
     },
     {
-        "ID": "00542",
+        "ID": "00543",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Eauze, Gers, Occitanie, France",
         "departement": "Gers",
         "region": "Occitanie",
@@ -902,7 +924,7 @@
         "devdep": null
     },
     {
-        "ID": "00543",
+        "ID": "00544",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Fleurance, Gers, Occitanie, France",
         "departement": "Gers",
         "region": "Occitanie",
@@ -924,7 +946,7 @@
         "devdep": null
     },
     {
-        "ID": "00544",
+        "ID": "00545",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Gimont, Gers, Occitanie, France",
         "departement": "Gers",
         "region": "Occitanie",
@@ -946,7 +968,7 @@
         "devdep": null
     },
     {
-        "ID": "00545",
+        "ID": "00546",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mauvezin, Gers, Occitanie, France",
         "departement": "Gers",
         "region": "Occitanie",
@@ -968,7 +990,7 @@
         "devdep": null
     },
     {
-        "ID": "00546",
+        "ID": "00547",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mirande, Gers, Occitanie, France",
         "departement": "Gers",
         "region": "Occitanie",
@@ -990,7 +1012,7 @@
         "devdep": null
     },
     {
-        "ID": "00547",
+        "ID": "00548",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vic Fezensac, Gers, Occitanie, France",
         "departement": "Gers",
         "region": "Occitanie",
@@ -1012,7 +1034,7 @@
         "devdep": null
     },
     {
-        "ID": "00548",
+        "ID": "00549",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Arcachon, Gironde, Nouvelle-Aquitaine, France",
         "departement": "Gironde",
         "region": "Nouvelle-Aquitaine",
@@ -1034,7 +1056,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00549",
+        "ID": "00550",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bordeaux, Gironde, Nouvelle-Aquitaine, France",
         "departement": "Gironde",
         "region": "Nouvelle-Aquitaine",
@@ -1056,7 +1078,7 @@
         "devdep": "TRUE"
     },
     {
-        "ID": "00550",
+        "ID": "00551",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bordeaux, Gironde, Nouvelle-Aquitaine, France",
         "departement": "Gironde",
         "region": "Nouvelle-Aquitaine",
@@ -1078,7 +1100,7 @@
         "devdep": "TRUE"
     },
     {
-        "ID": "00551",
+        "ID": "00552",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bordeaux, Gironde, Nouvelle-Aquitaine, France",
         "departement": "Gironde",
         "region": "Nouvelle-Aquitaine",
@@ -1100,7 +1122,7 @@
         "devdep": "TRUE"
     },
     {
-        "ID": "00552",
+        "ID": "00553",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bordeaux, Gironde, Nouvelle-Aquitaine, France",
         "departement": "Gironde",
         "region": "Nouvelle-Aquitaine",
@@ -1122,7 +1144,7 @@
         "devdep": "TRUE"
     },
     {
-        "ID": "00553",
+        "ID": "00554",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Carcans, Gironde, Nouvelle-Aquitaine, France",
         "departement": "Gironde",
         "region": "Nouvelle-Aquitaine",
@@ -1144,7 +1166,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00554",
+        "ID": "00555",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Claouey, Gironde, Nouvelle-Aquitaine, France",
         "departement": "Gironde",
         "region": "Nouvelle-Aquitaine",
@@ -1166,7 +1188,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00555",
+        "ID": "00556",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La R\u00e9ole, Gironde, Nouvelle-Aquitaine, France",
         "departement": "Gironde",
         "region": "Nouvelle-Aquitaine",
@@ -1188,7 +1210,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00556",
+        "ID": "00557",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Libourne , Gironde, Nouvelle-Aquitaine, France",
         "departement": "Gironde",
         "region": "Nouvelle-Aquitaine",
@@ -1210,7 +1232,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00557",
+        "ID": "00558",
         "Ville, D\u00e9partement, R\u00e9gion, France": "B\u00e9ziers, H\u00e9rault, Occitanie, France",
         "departement": "H\u00e9rault",
         "region": "Occitanie",
@@ -1232,7 +1254,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00558",
+        "ID": "00559",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montpellier, H\u00e9rault, Occitanie, France",
         "departement": "H\u00e9rault",
         "region": "Occitanie",
@@ -1254,7 +1276,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00559",
+        "ID": "00560",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ch\u00e2teauroux, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1276,7 +1298,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00560",
+        "ID": "00561",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chatillon-sur-Indre, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1298,7 +1320,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00561",
+        "ID": "00562",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Clion, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1320,7 +1342,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00562",
+        "ID": "00563",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Vernelle, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1342,7 +1364,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00563",
+        "ID": "00564",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Les Bordes, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1364,7 +1386,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00564",
+        "ID": "00565",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Luant, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1386,7 +1408,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00565",
+        "ID": "00566",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Lye, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1408,7 +1430,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00566",
+        "ID": "00567",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Martizay, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1430,7 +1452,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00567",
+        "ID": "00568",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montierchaume, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1452,7 +1474,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00568",
+        "ID": "00569",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Parnac, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1474,7 +1496,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00569",
+        "ID": "00570",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Benoit-du-Sault, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1496,7 +1518,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00570",
+        "ID": "00571",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Tournon-Saint-Martin, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1518,7 +1540,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00571",
+        "ID": "00572",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Valen\u00e7ay, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1540,7 +1562,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00572",
+        "ID": "00573",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vatan, Indre, Centre-Val de Loire, France",
         "departement": "Indre",
         "region": "Centre-Val de Loire",
@@ -1562,7 +1584,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00573",
+        "ID": "00574",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Amboise, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1584,7 +1606,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00574",
+        "ID": "00575",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Amboise, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1606,7 +1628,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00575",
+        "ID": "00576",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ath\u00e9e-sur-Cher, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1628,7 +1650,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00576",
+        "ID": "00577",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Beaumont-en-V\u00e9ron, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1650,7 +1672,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00577",
+        "ID": "00578",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bossay-sur-Claise, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1672,7 +1694,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00578",
+        "ID": "00579",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bournan, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1694,7 +1716,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00579",
+        "ID": "00580",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cerelles, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1716,7 +1738,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00580",
+        "ID": "00581",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chambourg-sur-Indre, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1738,7 +1760,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00581",
+        "ID": "00582",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chambray-les-Tours, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1760,7 +1782,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00582",
+        "ID": "00583",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Champigny-sur-Veude, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1782,7 +1804,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00583",
+        "ID": "00584",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chanceaux-sur-Choisille, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1804,7 +1826,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00584",
+        "ID": "00585",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chanceaux-sur-Choisille, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1826,7 +1848,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00585",
+        "ID": "00586",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cheill\u00e9, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1848,7 +1870,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00586",
+        "ID": "00587",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chisseaux, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1870,7 +1892,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00587",
+        "ID": "00588",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cinq-Mars-la-Pile, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1892,7 +1914,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00588",
+        "ID": "00589",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cormery, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1914,7 +1936,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00589",
+        "ID": "00590",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Couesmes, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1936,7 +1958,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00590",
+        "ID": "00591",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Crotelle, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1958,7 +1980,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00591",
+        "ID": "00592",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Fondettes, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -1980,7 +2002,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00592",
+        "ID": "00593",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Huismes, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2002,7 +2024,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00593",
+        "ID": "00594",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Chapelle-sur-Loire, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2024,7 +2046,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00594",
+        "ID": "00595",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Ville-aux-Dames, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2046,7 +2068,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00595",
+        "ID": "00596",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La-Ville-aux-dames, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2068,7 +2090,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00596",
+        "ID": "00597",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Le Boulay, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2090,7 +2112,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00597",
+        "ID": "00598",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ligueil, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2112,7 +2134,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00598",
+        "ID": "00599",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Limeray, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2134,7 +2156,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00599",
+        "ID": "00600",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mazi\u00e8res-de-Touraine, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2156,7 +2178,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00600",
+        "ID": "00601",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Metray, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2178,7 +2200,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00601",
+        "ID": "00602",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Monnaie, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2200,7 +2222,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00602",
+        "ID": "00603",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Neuill\u00e9-le-Lierre, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2222,7 +2244,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00603",
+        "ID": "00604",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Neuill\u00e9-Pont-Pierre, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2244,7 +2266,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00604",
+        "ID": "00605",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Noizay, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2266,7 +2288,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00605",
+        "ID": "00606",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Notre-Dame-d'O\u00e9, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2288,7 +2310,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00606",
+        "ID": "00607",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Notre-Dame-d'O\u00e9, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2310,7 +2332,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00607",
+        "ID": "00608",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nouzilly, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2332,7 +2354,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00608",
+        "ID": "00609",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Par\u00e7ay-Meslay, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2354,7 +2376,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00609",
+        "ID": "00610",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pouzay, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2376,7 +2398,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00610",
+        "ID": "00611",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Reugny, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2398,7 +2420,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00611",
+        "ID": "00612",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Richelieu, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2420,7 +2442,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00612",
+        "ID": "00613",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Rochecorbon, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2442,7 +2464,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00613",
+        "ID": "00614",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Rouziers-de-Touraine, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2464,7 +2486,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00614",
+        "ID": "00615",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Branchs, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2486,7 +2508,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00615",
+        "ID": "00616",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Branchs, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2508,7 +2530,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00616",
+        "ID": "00617",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-\u00c9tienne-de-Chigny, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2530,7 +2552,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00617",
+        "ID": "00618",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Laurent-en-G\u00e2tines, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2552,7 +2574,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00618",
+        "ID": "00619",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Laurent-en-G\u00e2tines, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2574,7 +2596,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00619",
+        "ID": "00620",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Martin-le-Beau, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2596,7 +2618,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00620",
+        "ID": "00621",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Ouen-les-Vignes, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2618,7 +2640,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00621",
+        "ID": "00622",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Sainte-Maure-de-Touraine, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2640,7 +2662,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00622",
+        "ID": "00623",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Savenni\u00e8res, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2662,7 +2684,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00623",
+        "ID": "00624",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Savign\u00e9-sur-Lathan, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2684,7 +2706,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00624",
+        "ID": "00625",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Semblan\u00e7ay, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2706,7 +2728,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00625",
+        "ID": "00626",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Sennevi\u00e8res, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2728,7 +2750,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00626",
+        "ID": "00627",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Tours, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2750,7 +2772,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00627",
+        "ID": "00628",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villaines-les-Rochers, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2772,7 +2794,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00628",
+        "ID": "00629",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villaines-les-Rochers, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2794,7 +2816,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00629",
+        "ID": "00630",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vouvray, Indre-et-Loire, Centre-Val de Loire, France",
         "departement": "Indre-et-Loire",
         "region": "Centre-Val de Loire",
@@ -2816,7 +2838,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00630",
+        "ID": "00631",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Allevard-les-Bains, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -2838,7 +2860,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00631",
+        "ID": "00632",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Autrans-M\u00e9audre en Vercors, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -2860,7 +2882,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00632",
+        "ID": "00633",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chatte, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -2882,7 +2904,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00633",
+        "ID": "00634",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cr\u00e9mieu, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -2904,7 +2926,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00634",
+        "ID": "00635",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -2926,7 +2948,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00635",
+        "ID": "00636",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Lans-en-Vercors, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -2948,7 +2970,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00636",
+        "ID": "00637",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mens, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -2970,7 +2992,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00637",
+        "ID": "00638",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montalieu-Vercieu, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -2992,7 +3014,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00638",
+        "ID": "00639",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Morestel, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3014,7 +3036,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00639",
+        "ID": "00640",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Romagnieu, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3036,7 +3058,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00640",
+        "ID": "00641",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Roussillon, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3058,7 +3080,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00641",
+        "ID": "00642",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Barth\u00e9lemy, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3080,7 +3102,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00642",
+        "ID": "00643",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Clair-du-Rh\u00f4ne, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3102,7 +3124,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00643",
+        "ID": "00644",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Hilaire du Touvet, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3124,7 +3146,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00644",
+        "ID": "00645",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Laurent-du-Pont, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3146,7 +3168,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00645",
+        "ID": "00646",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Martin-d'Uriage, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3168,7 +3190,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00646",
+        "ID": "00647",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Pierre-d'Entremont, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3190,7 +3212,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00647",
+        "ID": "00648",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Pierre-de-Bressieux, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3212,7 +3234,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00648",
+        "ID": "00649",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Pierre-de-Chartreuse, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3234,7 +3256,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00649",
+        "ID": "00650",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Victor-de-Morestel, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3256,7 +3278,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00650",
+        "ID": "00651",
         "Ville, D\u00e9partement, R\u00e9gion, France": "V\u00e9zeronce-Curtin, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3278,7 +3300,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00651",
+        "ID": "00652",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vignieu, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3300,7 +3322,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00652",
+        "ID": "00653",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villages du lac de Paladru, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3322,7 +3344,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00653",
+        "ID": "00654",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villard-de-Lans, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3344,7 +3366,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00654",
+        "ID": "00655",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vizille, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Is\u00e8re",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -3366,7 +3388,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00655",
+        "ID": "00656",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Augisey, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3388,7 +3410,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00656",
+        "ID": "00657",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bellefontaine, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3410,7 +3432,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00657",
+        "ID": "00658",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bl\u00e9gny, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3432,7 +3454,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00658",
+        "ID": "00659",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Brevans, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3454,7 +3476,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00659",
+        "ID": "00660",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chamole, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3476,7 +3498,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00660",
+        "ID": "00661",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chaumergy, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3498,7 +3520,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00661",
+        "ID": "00662",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cousance, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3520,7 +3542,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00662",
+        "ID": "00663",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Dole, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3542,7 +3564,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00663",
+        "ID": "00664",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Doucier, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3564,7 +3586,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00664",
+        "ID": "00665",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Grozon, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3586,7 +3608,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00665",
+        "ID": "00666",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Chapelle-sur-Furieuse, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3608,7 +3630,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00666",
+        "ID": "00667",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La fontaine aux Loups, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3630,7 +3652,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00667",
+        "ID": "00668",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Marre, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3652,7 +3674,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00668",
+        "ID": "00669",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Le Deschaux, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3674,7 +3696,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00669",
+        "ID": "00670",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Loulle, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3696,7 +3718,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00670",
+        "ID": "00671",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Miery, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3718,7 +3740,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00671",
+        "ID": "00672",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mignovillard, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3740,7 +3762,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00672",
+        "ID": "00673",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Moirans-en-Montagne, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3762,7 +3784,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00673",
+        "ID": "00674",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Moirans-en-Montagne, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3784,7 +3806,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00674",
+        "ID": "00675",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Moissey, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3806,7 +3828,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00675",
+        "ID": "00676",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montaigu, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3828,7 +3850,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00676",
+        "ID": "00677",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montbarrey, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3850,7 +3872,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00677",
+        "ID": "00678",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mouchard, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3872,7 +3894,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00678",
+        "ID": "00679",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ougney, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3894,7 +3916,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00679",
+        "ID": "00680",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Poligny, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3916,7 +3938,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00680",
+        "ID": "00681",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Aubin, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3938,7 +3960,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00681",
+        "ID": "00682",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Claude, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3960,7 +3982,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00682",
+        "ID": "00683",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Lothain, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -3982,7 +4004,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00683",
+        "ID": "00684",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Salins-les-Bains, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -4004,7 +4026,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00684",
+        "ID": "00685",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Selli\u00e8res, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -4026,7 +4048,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00685",
+        "ID": "00686",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Souvans, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -4048,7 +4070,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00686",
+        "ID": "00687",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Voiteur, Jura, Bourgogne-Franche-Comt\u00e9, France",
         "departement": "Jura",
         "region": "Bourgogne-Franche-Comt\u00e9",
@@ -4070,7 +4092,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00687",
+        "ID": "00688",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Biscarosse, Landes, Nouvelle-Aquitaine, France",
         "departement": "Landes",
         "region": "Nouvelle-Aquitaine",
@@ -4092,7 +4114,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00688",
+        "ID": "00689",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Dax, Landes, Nouvelle-Aquitaine, France",
         "departement": "Landes",
         "region": "Nouvelle-Aquitaine",
@@ -4114,7 +4136,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00689",
+        "ID": "00690",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Eug\u00e9nie-Les-Bains, Landes, Nouvelle-Aquitaine, France",
         "departement": "Landes",
         "region": "Nouvelle-Aquitaine",
@@ -4136,7 +4158,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00690",
+        "ID": "00691",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mont-de-Marsan, Landes, Nouvelle-Aquitaine, France",
         "departement": "Landes",
         "region": "Nouvelle-Aquitaine",
@@ -4158,7 +4180,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00691",
+        "ID": "00692",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Baillou, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4180,7 +4202,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00692",
+        "ID": "00693",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Blois, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4202,7 +4224,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00693",
+        "ID": "00694",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chailles, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4224,7 +4246,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00694",
+        "ID": "00695",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chambord, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4246,7 +4268,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00695",
+        "ID": "00696",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chaon, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4268,7 +4290,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00696",
+        "ID": "00697",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ch\u00e9mery, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4290,7 +4312,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00697",
+        "ID": "00698",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Danz\u00e9, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4312,7 +4334,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00698",
+        "ID": "00699",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Fortan, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4334,7 +4356,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00699",
+        "ID": "00700",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Ferth\u00e9-Saint-Cyr, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4356,7 +4378,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00700",
+        "ID": "00701",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Ville-aux-Clercs, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4378,7 +4400,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00701",
+        "ID": "00702",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Lanc\u00e9, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4400,7 +4422,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00702",
+        "ID": "00703",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mer, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4422,7 +4444,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00703",
+        "ID": "00704",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Millan\u00e7ay, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4444,7 +4466,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00704",
+        "ID": "00705",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Monthou-sur-Bi\u00e8vre, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4466,7 +4488,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00705",
+        "ID": "00706",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nouan-le-Fuzelier, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4488,7 +4510,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00706",
+        "ID": "00707",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pontlevoy, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4510,7 +4532,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00707",
+        "ID": "00708",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Romorantin, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4532,7 +4554,7 @@
         "devdep": null
     },
     {
-        "ID": "00708",
+        "ID": "00709",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Aignan, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4554,7 +4576,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00709",
+        "ID": "00710",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Claude-de-Diray, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4576,7 +4598,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00710",
+        "ID": "00711",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Julien-sur-Cher, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4598,7 +4620,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00711",
+        "ID": "00712",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Romain-sur-Cher, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4620,7 +4642,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00712",
+        "ID": "00713",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Theillay, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4642,7 +4664,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00713",
+        "ID": "00714",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vend\u00f4me, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4664,7 +4686,7 @@
         "devdep": null
     },
     {
-        "ID": "00714",
+        "ID": "00715",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villebarou, Loir-et-Cher, Centre-Val de Loire, France",
         "departement": "Loir-et-Cher",
         "region": "Centre-Val de Loire",
@@ -4686,7 +4708,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00715",
+        "ID": "00716",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Andr\u00e9zieux-Bouth\u00e9on, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4708,7 +4730,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00716",
+        "ID": "00717",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cellieu, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4730,7 +4752,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00717",
+        "ID": "00718",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cordelle, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4752,7 +4774,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00718",
+        "ID": "00719",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Coutouvre, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4774,7 +4796,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00719",
+        "ID": "00720",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Feurs, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4796,7 +4818,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00720",
+        "ID": "00721",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Firminy, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4818,7 +4840,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00721",
+        "ID": "00722",
         "Ville, D\u00e9partement, R\u00e9gion, France": "G\u00e9nilac, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4840,7 +4862,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00722",
+        "ID": "00723",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Ricamarie, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4862,7 +4884,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00723",
+        "ID": "00724",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Lorette, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4884,7 +4906,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00724",
+        "ID": "00725",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Maclas, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4906,7 +4928,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00725",
+        "ID": "00726",
         "Ville, D\u00e9partement, R\u00e9gion, France": "M\u00e9dard-en-Forez, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4928,7 +4950,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00726",
+        "ID": "00727",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montbrison, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4950,7 +4972,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00727",
+        "ID": "00728",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Poncins, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4972,7 +4994,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00728",
+        "ID": "00729",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Riorges, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -4994,7 +5016,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00729",
+        "ID": "00730",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Rive de Gier, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5016,7 +5038,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00730",
+        "ID": "00731",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Roanne, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5038,7 +5060,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00731",
+        "ID": "00732",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Roche la Moli\u00e8re, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5060,7 +5082,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00732",
+        "ID": "00733",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Sail-sous-Couzan, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5082,7 +5104,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00733",
+        "ID": "00734",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Chamond, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5104,7 +5126,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00734",
+        "ID": "00735",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Etienne, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5126,7 +5148,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00735",
+        "ID": "00736",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Galmier, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5148,7 +5170,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00736",
+        "ID": "00737",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Jean-Bonnefonds, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5170,7 +5192,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00737",
+        "ID": "00738",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Romain-le-Puy, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5192,7 +5214,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00738",
+        "ID": "00739",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Sury-le-Comtal, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5214,7 +5236,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00739",
+        "ID": "00740",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Unieux, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5236,7 +5258,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00740",
+        "ID": "00741",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Veauchette, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5258,7 +5280,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00741",
+        "ID": "00742",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villars, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5280,7 +5302,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00742",
+        "ID": "00743",
         "Ville, D\u00e9partement, R\u00e9gion, France": "All\u00e8gre, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5302,7 +5324,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00743",
+        "ID": "00744",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Aurec-sur-Loire, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5324,7 +5346,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00744",
+        "ID": "00745",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Auzon, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5346,7 +5368,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00745",
+        "ID": "00746",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bas-en-Basset, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5368,7 +5390,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00746",
+        "ID": "00747",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Beaux, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5390,7 +5412,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00747",
+        "ID": "00748",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Beauzac, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5412,7 +5434,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00748",
+        "ID": "00749",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Blavozy, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5434,7 +5456,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00749",
+        "ID": "00750",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Boisset, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5456,7 +5478,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00750",
+        "ID": "00751",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Brives-Charensac, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5478,7 +5500,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00751",
+        "ID": "00752",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Brives-Charensac, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5500,7 +5522,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00752",
+        "ID": "00753",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cayres, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5522,7 +5544,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00753",
+        "ID": "00754",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chaspinhac, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5544,7 +5566,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00754",
+        "ID": "00755",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chaspuzac, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5566,7 +5588,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00755",
+        "ID": "00756",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cohade, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5588,7 +5610,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00756",
+        "ID": "00757",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Costaros, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5610,7 +5632,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00757",
+        "ID": "00758",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Coubon, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5632,7 +5654,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00758",
+        "ID": "00759",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Craponne-sur-Arzon, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5654,7 +5676,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00759",
+        "ID": "00760",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Craponne-sur-Arzon, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5676,7 +5698,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00760",
+        "ID": "00761",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Duni\u00e8res, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5698,7 +5720,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00761",
+        "ID": "00762",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Espalem, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5720,7 +5742,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00762",
+        "ID": "00763",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Espaly-Saint-Marcel, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5742,7 +5764,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00763",
+        "ID": "00764",
         "Ville, D\u00e9partement, R\u00e9gion, France": "F\u00e9lines, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5764,7 +5786,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00764",
+        "ID": "00765",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Grazac, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5786,7 +5808,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00765",
+        "ID": "00766",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Chaise-Dieu, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5808,7 +5830,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00766",
+        "ID": "00767",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Chaise-Dieu, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5830,7 +5852,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00767",
+        "ID": "00768",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Landos, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5852,7 +5874,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00768",
+        "ID": "00769",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Langeac, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5874,7 +5896,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00769",
+        "ID": "00770",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Lapte, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5896,7 +5918,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00770",
+        "ID": "00771",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Lavo\u00fbte-Chilhac, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5918,7 +5940,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00771",
+        "ID": "00772",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Le Monastier-sur-Gazeille, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5940,7 +5962,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00772",
+        "ID": "00773",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Le Pertuis, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5962,7 +5984,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00773",
+        "ID": "00774",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Le Puy-en-Velay, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -5984,7 +6006,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00774",
+        "ID": "00775",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Les Estables, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6006,7 +6028,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00775",
+        "ID": "00776",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Malrevers, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6028,7 +6050,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00776",
+        "ID": "00777",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mazet-Saint-Voy, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6050,7 +6072,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00777",
+        "ID": "00778",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montfaucon-en-Velay, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6072,7 +6094,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00778",
+        "ID": "00779",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Paulhac, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6094,7 +6116,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00779",
+        "ID": "00780",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Polignac, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6116,7 +6138,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00780",
+        "ID": "00781",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pradelles, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6138,7 +6160,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00781",
+        "ID": "00782",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Riotord, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6160,7 +6182,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00782",
+        "ID": "00783",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Roche-en-R\u00e9gnier, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6182,7 +6204,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00783",
+        "ID": "00784",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Geneys-pr\u00e8s-Saint-Paulien, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6204,7 +6226,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00784",
+        "ID": "00785",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Jeures, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6226,7 +6248,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00785",
+        "ID": "00786",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Paulien, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6248,7 +6270,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00786",
+        "ID": "00787",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Paulien, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6270,7 +6292,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00787",
+        "ID": "00788",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Pierre-du-Champ, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6292,7 +6314,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00788",
+        "ID": "00789",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saugues, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6314,7 +6336,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00789",
+        "ID": "00790",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Tence, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6336,7 +6358,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00790",
+        "ID": "00791",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Tence, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6358,7 +6380,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00791",
+        "ID": "00792",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Tiranges, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6380,7 +6402,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00792",
+        "ID": "00793",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Venteuges, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6402,7 +6424,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00793",
+        "ID": "00794",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vorey, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6424,7 +6446,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00794",
+        "ID": "00795",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Yssingeaux, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
         "departement": "Haute-Loire",
         "region": "Auvergne-Rh\u00f4ne-Alpes",
@@ -6446,7 +6468,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00795",
+        "ID": "00796",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ancenis, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6468,7 +6490,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00796",
+        "ID": "00797",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ancenis, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6490,7 +6512,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00797",
+        "ID": "00798",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ass\u00e9rac, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6512,7 +6534,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00798",
+        "ID": "00799",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Blain, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6534,7 +6556,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00799",
+        "ID": "00800",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Brains, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6556,7 +6578,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00800",
+        "ID": "00801",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ch\u00e2teau Th\u00e9baud, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6578,7 +6600,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00801",
+        "ID": "00802",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cheix-en-Retz, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6600,7 +6622,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00802",
+        "ID": "00803",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Crossac, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6622,7 +6644,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00803",
+        "ID": "00804",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Derval, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6644,7 +6666,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00804",
+        "ID": "00805",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Donges, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6666,7 +6688,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00805",
+        "ID": "00806",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Fay de bretagne, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6688,7 +6710,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00806",
+        "ID": "00807",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Indre, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6710,7 +6732,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00807",
+        "ID": "00808",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Chapelle-sur-Erdre, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6732,7 +6754,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00808",
+        "ID": "00809",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Plaine-sur-Mer, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6754,7 +6776,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00809",
+        "ID": "00810",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Le Pellerin, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6776,7 +6798,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00810",
+        "ID": "00811",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Le Temple de Bretagne, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6798,7 +6820,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00811",
+        "ID": "00812",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Les Sorini\u00e8res, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6820,7 +6842,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00812",
+        "ID": "00813",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Machecoul-Saint-M\u00eame, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6842,7 +6864,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00813",
+        "ID": "00814",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mauves-dur-Loire, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6864,7 +6886,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00814",
+        "ID": "00815",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nantes, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6886,7 +6908,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00815",
+        "ID": "00816",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nantes, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6908,7 +6930,7 @@
         "devdep": "TRUE"
     },
     {
-        "ID": "00816",
+        "ID": "00817",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nantes, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6930,7 +6952,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00817",
+        "ID": "00818",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pontch\u00e2teau, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6952,7 +6974,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00818",
+        "ID": "00819",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pr\u00e9failles, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6974,7 +6996,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00819",
+        "ID": "00820",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Rez\u00e9, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -6996,7 +7018,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00820",
+        "ID": "00821",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Aignan-de-Grandlieu, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -7018,7 +7040,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00821",
+        "ID": "00822",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Andr\u00e9-des-Eaux, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -7040,7 +7062,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00822",
+        "ID": "00823",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Julien-de-Concelles, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -7062,7 +7084,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00823",
+        "ID": "00824",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Lyphard, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -7084,7 +7106,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00824",
+        "ID": "00825",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Malo-de-Guersac, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -7106,7 +7128,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00825",
+        "ID": "00826",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Nazaire, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -7128,7 +7150,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00826",
+        "ID": "00827",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Sainte-Reine-de-Bretagne, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -7150,7 +7172,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00827",
+        "ID": "00828",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Sautron, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -7172,7 +7194,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00828",
+        "ID": "00829",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Savenay, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -7194,7 +7216,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00829",
+        "ID": "00830",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Thouar\u00e9-sur-Loire, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -7216,7 +7238,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00830",
+        "ID": "00831",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vallet, Loire-Atlantique, Pays de la Loire, France",
         "departement": "Loire-Atlantique",
         "region": "Pays de la Loire",
@@ -7238,7 +7260,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00831",
+        "ID": "00832",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Angerville, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7260,7 +7282,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00832",
+        "ID": "00833",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ardon, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7282,7 +7304,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00833",
+        "ID": "00834",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Asch\u00e8res-le-March\u00e9, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7304,7 +7326,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00834",
+        "ID": "00835",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Baule, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7326,7 +7348,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00835",
+        "ID": "00836",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Bazoches-les-Gallerandes, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7348,7 +7370,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00836",
+        "ID": "00837",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Boynes, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7370,7 +7392,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00837",
+        "ID": "00838",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Boynes, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7392,7 +7414,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00838",
+        "ID": "00839",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chailly-en-G\u00e2tinais, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7414,7 +7436,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00839",
+        "ID": "00840",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ch\u00e2teauneuf-sur-Loire, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7436,7 +7458,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00840",
+        "ID": "00841",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ch\u00e2tillon-sur-Loire, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7458,7 +7480,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00841",
+        "ID": "00842",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chevillon-sur-Huillard, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7480,7 +7502,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00842",
+        "ID": "00843",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chilleurs-aux-Bois, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7502,7 +7524,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00843",
+        "ID": "00844",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cl\u00e9ry-Saint-Andr\u00e9, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7524,7 +7546,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00844",
+        "ID": "00845",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Corbeilles, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7546,7 +7568,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00845",
+        "ID": "00846",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Coudroy, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7568,7 +7590,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00846",
+        "ID": "00847",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Coullons, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7590,7 +7612,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00847",
+        "ID": "00848",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Courcelles-le-Roi, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7612,7 +7634,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00848",
+        "ID": "00849",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Courtenay, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7634,7 +7656,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00849",
+        "ID": "00850",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Donnery, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7656,7 +7678,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00850",
+        "ID": "00851",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Epieds, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7678,7 +7700,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00851",
+        "ID": "00852",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Epieds-en-Beauce, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7700,7 +7722,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00852",
+        "ID": "00853",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ferri\u00e8res-en-G\u00e2tinais, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7722,7 +7744,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00853",
+        "ID": "00854",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Fleury-les-Aubrais, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7744,7 +7766,7 @@
         "devdep": "TRUE"
     },
     {
-        "ID": "00854",
+        "ID": "00855",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Germigny-des-Pr\u00e9s, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7766,7 +7788,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00855",
+        "ID": "00856",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Gien, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7788,7 +7810,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00856",
+        "ID": "00857",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Greneville-en-Beauce, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7810,7 +7832,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00857",
+        "ID": "00858",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Guignonville, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7832,7 +7854,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00858",
+        "ID": "00859",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Jargeau, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7854,7 +7876,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00859",
+        "ID": "00860",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Jouy-le-Potier, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7876,7 +7898,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00860",
+        "ID": "00861",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Fert\u00e9-Saint-Aubin, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7898,7 +7920,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00861",
+        "ID": "00862",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Lailly en Val, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7920,7 +7942,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00862",
+        "ID": "00863",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Le Bardon, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7942,7 +7964,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00863",
+        "ID": "00864",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Lorcy, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7964,7 +7986,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00864",
+        "ID": "00865",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Loury, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -7986,7 +8008,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00865",
+        "ID": "00866",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Marigny-les-Usages, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8008,7 +8030,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00866",
+        "ID": "00867",
         "Ville, D\u00e9partement, R\u00e9gion, France": "M\u00e9nestreau-en-Villette, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8030,7 +8052,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00867",
+        "ID": "00868",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Meung-sur-Loire, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8052,7 +8074,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00868",
+        "ID": "00869",
         "Ville, D\u00e9partement, R\u00e9gion, France": "M\u00e9zi\u00e8res-les-Cl\u00e9ry, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8074,7 +8096,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00869",
+        "ID": "00870",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montargis, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8096,7 +8118,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00870",
+        "ID": "00871",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montargis, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8118,7 +8140,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00871",
+        "ID": "00872",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montbarrois, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8140,7 +8162,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00872",
+        "ID": "00873",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nargis, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8162,7 +8184,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00873",
+        "ID": "00874",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nevoy, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8184,7 +8206,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00874",
+        "ID": "00875",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Orl\u00e9ans, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8206,7 +8228,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00875",
+        "ID": "00876",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ousson-sur-Loire, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8228,7 +8250,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00876",
+        "ID": "00877",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Outarville, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8250,7 +8272,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00877",
+        "ID": "00878",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pithiviers, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8272,7 +8294,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00878",
+        "ID": "00879",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pithiviers-le-Vieil, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8294,7 +8316,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00879",
+        "ID": "00880",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pussay, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8316,7 +8338,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00880",
+        "ID": "00881",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Beno\u00eet-sur-Loire, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8338,7 +8360,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00881",
+        "ID": "00882",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Cyr-en-Val, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8360,7 +8382,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00882",
+        "ID": "00883",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Denis-de-l\u2019H\u00f4tel, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8382,7 +8404,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00883",
+        "ID": "00884",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Hilaire-les Andr\u00e9sis, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8404,7 +8426,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00884",
+        "ID": "00885",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Jean-de-Braye, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8426,7 +8448,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00885",
+        "ID": "00886",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Jean-de-le-ruelle, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8448,7 +8470,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00886",
+        "ID": "00887",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Jean-le-Blanc, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8470,7 +8492,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00887",
+        "ID": "00888",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saran, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8492,7 +8514,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00888",
+        "ID": "00889",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Semoy, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8514,7 +8536,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00889",
+        "ID": "00890",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Sermaises, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8536,7 +8558,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00890",
+        "ID": "00891",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Sermaises, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8558,7 +8580,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00891",
+        "ID": "00892",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Sully-sur-Loire, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8580,7 +8602,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00892",
+        "ID": "00893",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Tavers, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8602,7 +8624,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00893",
+        "ID": "00894",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Toury, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8624,7 +8646,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00894",
+        "ID": "00895",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vannes-sur-Cosson, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8646,7 +8668,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00895",
+        "ID": "00896",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vieilles-Maisons-sur-Joudry, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8668,7 +8690,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00896",
+        "ID": "00897",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vienne-en-Val, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8690,7 +8712,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00897",
+        "ID": "00898",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villamblain, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8712,7 +8734,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00898",
+        "ID": "00899",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villemandeur, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8734,7 +8756,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00899",
+        "ID": "00900",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villorceau, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8756,7 +8778,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00900",
+        "ID": "00901",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vimory, Loiret, Centre-Val de Loire, France",
         "departement": "Loiret",
         "region": "Centre-Val de Loire",
@@ -8778,7 +8800,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00901",
+        "ID": "00902",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cahors, Lot, Occitanie, France",
         "departement": "Lot",
         "region": "Occitanie",
@@ -8800,7 +8822,7 @@
         "devdep": null
     },
     {
-        "ID": "00902",
+        "ID": "00903",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Figeac, Lot, Occitanie, France",
         "departement": "Lot",
         "region": "Occitanie",
@@ -8822,7 +8844,7 @@
         "devdep": null
     },
     {
-        "ID": "00903",
+        "ID": "00904",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montcuq, Lot, Occitanie, France",
         "departement": "Lot",
         "region": "Occitanie",
@@ -8844,7 +8866,7 @@
         "devdep": null
     },
     {
-        "ID": "00904",
+        "ID": "00905",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Rocamadour, Lot, Occitanie, France",
         "departement": "Lot",
         "region": "Occitanie",
@@ -8866,7 +8888,7 @@
         "devdep": null
     },
     {
-        "ID": "00905",
+        "ID": "00906",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Souillac, Lot, Occitanie, France",
         "departement": "Lot",
         "region": "Occitanie",
@@ -8888,7 +8910,7 @@
         "devdep": null
     },
     {
-        "ID": "00906",
+        "ID": "00907",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Agen, Lot-et-Garonne, Nouvelle-Aquitaine, France",
         "departement": "Lot-et-Garonne",
         "region": "Nouvelle-Aquitaine",
@@ -8910,7 +8932,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00907",
+        "ID": "00908",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Aiguillon, Lot-et-Garonne, Nouvelle-Aquitaine, France",
         "departement": "Lot-et-Garonne",
         "region": "Nouvelle-Aquitaine",
@@ -8932,7 +8954,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00908",
+        "ID": "00909",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villeneuve-sur-Lot, Lot-et-Garonne, Nouvelle-Aquitaine, France",
         "departement": "Lot-et-Garonne",
         "region": "Nouvelle-Aquitaine",
@@ -8954,7 +8976,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00909",
+        "ID": "00910",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Viller\u00e9al, Lot-et-Garonne, Nouvelle-Aquitaine, France",
         "departement": "Lot-et-Garonne",
         "region": "Nouvelle-Aquitaine",
@@ -8976,7 +8998,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00910",
+        "ID": "00911",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Marvejols, Loz\u00e8re, Occitanie, France",
         "departement": "Loz\u00e8re",
         "region": "Occitanie",
@@ -8998,7 +9020,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00911",
+        "ID": "00912",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mende, Loz\u00e8re, Occitanie, France",
         "departement": "Loz\u00e8re",
         "region": "Occitanie",
@@ -9020,7 +9042,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00912",
+        "ID": "00913",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Angers, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9042,7 +9064,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00913",
+        "ID": "00914",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Avrill\u00e9, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9064,7 +9086,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00914",
+        "ID": "00915",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Barac\u00e9, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9086,7 +9108,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00915",
+        "ID": "00916",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Baug\u00e9-en-Anjou, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9108,7 +9130,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00916",
+        "ID": "00917",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Champtoc\u00e9 sur Loire, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9130,7 +9152,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00917",
+        "ID": "00918",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cholet, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9152,7 +9174,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00918",
+        "ID": "00919",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Feneu, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9174,7 +9196,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00919",
+        "ID": "00920",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Gennes-Val-de-Loire, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9196,7 +9218,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00920",
+        "ID": "00921",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Jarz\u00e9 Villages, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9218,7 +9240,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00921",
+        "ID": "00922",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Le Coudray-Macouard, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9240,7 +9262,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00922",
+        "ID": "00923",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Le Lion d'Angers, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9262,7 +9284,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00923",
+        "ID": "00924",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Les Hauts-d'Anjou, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9284,7 +9306,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00924",
+        "ID": "00925",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Les Rairies, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9306,7 +9328,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00925",
+        "ID": "00926",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mauges-sur-Loire, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9328,7 +9350,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00926",
+        "ID": "00927",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mir\u00e9, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9350,7 +9372,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00927",
+        "ID": "00928",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montreuil-Juign\u00e9, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9372,7 +9394,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00928",
+        "ID": "00929",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Morannes, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9394,7 +9416,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00929",
+        "ID": "00930",
         "Ville, D\u00e9partement, R\u00e9gion, France": "M\u00fbrs-\u00c9rign\u00e9, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9416,7 +9438,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00930",
+        "ID": "00931",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Noyant-Villages, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9438,7 +9460,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00931",
+        "ID": "00932",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ombr\u00e9e d'Anjou, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9460,7 +9482,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00932",
+        "ID": "00933",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Rives-du-Loir-en-Anjou, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9482,7 +9504,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00933",
+        "ID": "00934",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Barth\u00e9l\u00e9my-d'Anjou, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9504,7 +9526,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00934",
+        "ID": "00935",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-L\u00e9ger-de-Lini\u00e8res, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9526,7 +9548,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00935",
+        "ID": "00936",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-L\u00e9ger-sous-Cholet, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9548,7 +9570,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00936",
+        "ID": "00937",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Sainte-Gemmes-sur-Loire, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9570,7 +9592,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00937",
+        "ID": "00938",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Segr\u00e9-en-Anjou-Bleu, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9592,7 +9614,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00938",
+        "ID": "00939",
         "Ville, D\u00e9partement, R\u00e9gion, France": "S\u00e8vremoine, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9614,7 +9636,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00939",
+        "ID": "00940",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Val d'Erdre-Auxence, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9636,7 +9658,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00940",
+        "ID": "00941",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vernoil-le-Fourrier, Maine-et-Loire, Pays de la Loire, France",
         "departement": "Maine-et-Loire",
         "region": "Pays de la Loire",
@@ -9658,7 +9680,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00941",
+        "ID": "00942",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Agon-Coutainville, Manche, Normandie, France",
         "departement": "Manche",
         "region": "Normandie",
@@ -9680,7 +9702,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00942",
+        "ID": "00943",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Carneville, Manche, Normandie, France",
         "departement": "Manche",
         "region": "Normandie",
@@ -9702,7 +9724,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00943",
+        "ID": "00944",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cherbourg-en-Cotentin, Manche, Normandie, France",
         "departement": "Manche",
         "region": "Normandie",
@@ -9724,7 +9746,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00944",
+        "ID": "00945",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Coutances, Manche, Normandie, France",
         "departement": "Manche",
         "region": "Normandie",
@@ -9746,7 +9768,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00945",
+        "ID": "00946",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Hambye, Manche, Normandie, France",
         "departement": "Manche",
         "region": "Normandie",
@@ -9768,7 +9790,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00946",
+        "ID": "00947",
         "Ville, D\u00e9partement, R\u00e9gion, France": "La Hague, Manche, Normandie, France",
         "departement": "Manche",
         "region": "Normandie",
@@ -9790,7 +9812,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00947",
+        "ID": "00948",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Le Vald\u00e9cie, Manche, Normandie, France",
         "departement": "Manche",
         "region": "Normandie",
@@ -9812,7 +9834,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00948",
+        "ID": "00949",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Martinvast, Manche, Normandie, France",
         "departement": "Manche",
         "region": "Normandie",
@@ -9834,7 +9856,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00949",
+        "ID": "00950",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Regn\u00e9ville-sur-Mer, Manche, Normandie, France",
         "departement": "Manche",
         "region": "Normandie",
@@ -9856,7 +9878,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00950",
+        "ID": "00951",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Teurtheville-hague, Manche, Normandie, France",
         "departement": "Manche",
         "region": "Normandie",
@@ -9878,7 +9900,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00951",
+        "ID": "00952",
         "Ville, D\u00e9partement, R\u00e9gion, France": "\r\n \t\r\nCh\u00e2lons-en-Champagne, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -9900,7 +9922,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00952",
+        "ID": "00953",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Boult-sur-Suippe, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -9922,7 +9944,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00953",
+        "ID": "00954",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Boursault, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -9944,7 +9966,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00954",
+        "ID": "00955",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Cramant, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -9966,7 +9988,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00955",
+        "ID": "00956",
         "Ville, D\u00e9partement, R\u00e9gion, France": "\u00c9pernay, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -9988,7 +10010,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00956",
+        "ID": "00957",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Jonchery-sur-Vesle, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10010,7 +10032,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00957",
+        "ID": "00958",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Ludes, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10032,7 +10054,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00958",
+        "ID": "00959",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mailly-Champagne, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10054,7 +10076,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00959",
+        "ID": "00960",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Mourmelon-le-Grand, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10076,7 +10098,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00960",
+        "ID": "00961",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nesle-la-Reposte, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10098,7 +10120,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00961",
+        "ID": "00962",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Pargny-sur-Saulx, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10120,7 +10142,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00962",
+        "ID": "00963",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Reims, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10142,7 +10164,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00963",
+        "ID": "00964",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Eulien, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10164,7 +10186,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00964",
+        "ID": "00965",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Masmes, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10186,7 +10208,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00965",
+        "ID": "00966",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Ouen-Domprot, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10208,7 +10230,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00966",
+        "ID": "00967",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Sainte-Menehould, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10230,7 +10252,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00967",
+        "ID": "00968",
         "Ville, D\u00e9partement, R\u00e9gion, France": "S\u00e9zanne, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10252,7 +10274,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00968",
+        "ID": "00969",
         "Ville, D\u00e9partement, R\u00e9gion, France": "S\u00e9zanne, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10274,7 +10296,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00969",
+        "ID": "00970",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Somme-Suippe, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10296,7 +10318,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00970",
+        "ID": "00971",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Troissy-Bouquigny, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10318,7 +10340,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00971",
+        "ID": "00972",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villers-Marmery, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10340,7 +10362,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00972",
+        "ID": "00973",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villevenard, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10362,7 +10384,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00973",
+        "ID": "00974",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Vitry-le-Fran\u00e7ois, Marne, Grand Est, France",
         "departement": "Marne",
         "region": "Grand Est",
@@ -10384,7 +10406,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00974",
+        "ID": "00975",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chalindrey, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10406,7 +10428,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00975",
+        "ID": "00976",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chancenay, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10428,7 +10450,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00976",
+        "ID": "00977",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Chaumont, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10450,7 +10472,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00977",
+        "ID": "00978",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Colombey-les-2-Eglises, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10472,7 +10494,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00978",
+        "ID": "00979",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Dommarien, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10494,7 +10516,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00979",
+        "ID": "00980",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Echenay, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10516,7 +10538,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00980",
+        "ID": "00981",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Fayl-Billot, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10538,7 +10560,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00981",
+        "ID": "00982",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Fayl-Billot, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10560,7 +10582,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00982",
+        "ID": "00983",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Hortes, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10582,7 +10604,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00983",
+        "ID": "00984",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Humes, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10604,7 +10626,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00984",
+        "ID": "00985",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Joinville, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10626,7 +10648,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00985",
+        "ID": "00986",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Lafert\u00e9-sur-Aube, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10648,7 +10670,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00986",
+        "ID": "00987",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Langres, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10670,7 +10692,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00987",
+        "ID": "00988",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Langres, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10692,7 +10714,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00988",
+        "ID": "00989",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Logeville-sur-la-Laine, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10714,7 +10736,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00989",
+        "ID": "00990",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Longeau-Percey, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10736,7 +10758,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00990",
+        "ID": "00991",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montier-en-Der, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10758,7 +10780,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00991",
+        "ID": "00992",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Montigny-le-Roi, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10780,7 +10802,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00992",
+        "ID": "00993",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Neuilly-l'Ev\u00eaque, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10802,7 +10824,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00993",
+        "ID": "00994",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nogent, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10824,7 +10846,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00994",
+        "ID": "00995",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Nogent, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10846,7 +10868,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00995",
+        "ID": "00996",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Rolampont, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10868,7 +10890,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00996",
+        "ID": "00997",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Dizier, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10890,7 +10912,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00997",
+        "ID": "00998",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Saint-Urbain-Maconcourt, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10912,7 +10934,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00998",
+        "ID": "00999",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Villegusien-le-Lac, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10934,7 +10956,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "00999",
+        "ID": "01000",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Voillmagny, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10956,7 +10978,7 @@
         "devdep": "FALSE"
     },
     {
-        "ID": "01000",
+        "ID": "01001",
         "Ville, D\u00e9partement, R\u00e9gion, France": "Wassy, Haute-Marne, Grand Est, France",
         "departement": "Haute-Marne",
         "region": "Grand Est",
@@ -10973,28 +10995,6 @@
         "Dates et horaires OK": "25 et 26 novembre. Samedi de 14h \u00e0 19h, dimanche de 10h \u00e0 18h",
         "Adresse OK": "Gymnase",
         "D\u00e9tails OK": "Rencontre avec le p\u00e8re No\u00ebl chaque jour \u00e0 partir de 14h, atelier maquillage, sculpture sur ballons, ch\u00e2teaux gonflables, jeux en bois, buvette, restauration, marrons et vin chaud, plus de 80 exposants",
-        "D\u00e9tails d\u00e9veloppement durable OK": null,
-        "Unnamed: 18": null,
-        "devdep": "FALSE"
-    },
-    {
-        "ID": "01001",
-        "Ville, D\u00e9partement, R\u00e9gion, France": "Bais, Mayenne, Pays de la Loire, France",
-        "departement": "Mayenne",
-        "region": "Pays de la Loire",
-        "DEP": "53",
-        "Ville": "Bais",
-        "dates": "samedi 2 d\u00e9cembre",
-        "adressse": "Place de l'\u00e9glise",
-        "details": "Exposition et vente d'artisans, de commer\u00e7ants et d'associations: d\u00e9corations \nde No\u00ebl, animations: danse, arriv\u00e9e du P\u00e8re-No\u00ebl \u00e0 16h...",
-        "lien": "https://www.mayenne-tourisme.com/offres/marche-de-noel-de-bais-bais-fr-4487524/",
-        "D\u00e9veloppement durable ": "FALSE",
-        "D\u00e9tails d\u00e9veloppement durable ": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null,
-        "Dates et horaires OK": "samedi 2 d\u00e9cembre",
-        "Adresse OK": "Place de l'\u00e9glise",
-        "D\u00e9tails OK": "Exposition et vente d'artisans, de commer\u00e7ants et d'associations: d\u00e9corations <br>de No\u00ebl, animations: danse, arriv\u00e9e du P\u00e8re-No\u00ebl \u00e0 16h...",
         "D\u00e9tails d\u00e9veloppement durable OK": null,
         "Unnamed: 18": null,
         "devdep": "FALSE"
